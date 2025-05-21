@@ -1,0 +1,56 @@
+ID	Name	D_O (m)	H (m)	Q (m3/s)	P (kW)	Ref
+1	Haddo	1.4	5	0.5	15.9	\cite{yoosefdoost2021archimedes}
+2	Indore	1.4	5.3	0.6	19	\cite{yoosefdoost2021archimedes}
+3	Mühlen	1.5	3	1	21	\cite{yoosefdoost2021archimedes}
+4	Bischofsmais	1.6	3.16	1	21	\cite{yoosefdoost2021archimedes}
+5	Gennkikungou	1.6	1.05	0.99	7.3	\cite{yoosefdoost2021archimedes}
+6	Herrenhof	1.6	2.1	0.9	13.9	\cite{yoosefdoost2021archimedes}
+7	Schnaittach	1.6	1.35	0.8	7.5	\cite{yoosefdoost2021archimedes}
+8	Vierhöfen	1.6	1	1.2	8	\cite{yoosefdoost2021archimedes}
+9	St. Michael	1.7	3.2	1.2	26.92	\cite{yoosefdoost2021archimedes}
+10	Vadodara	1.7	5	1	33	\cite{yoosefdoost2021archimedes}
+11	Eitting	1.8	3.57	1.2	29	\cite{yoosefdoost2021archimedes}
+12	Erding	1.8	1.75	1.2	13.9	\cite{yoosefdoost2021archimedes}
+13	Flatford Mill	1.9	1.1	1.6	12.6	\cite{yoosefdoost2021archimedes}
+14	Niedermühle	1.9	3.17	1.5	33	\cite{yoosefdoost2021archimedes}
+15	Gescher	2	3.45	1.8	46	\cite{yoosefdoost2021archimedes}
+16	Yvoir	2.1	1.8	2	26	\cite{yoosefdoost2021archimedes}
+17	Colditz	2.2	3	1.5	33	\cite{yoosefdoost2021archimedes}
+18	Ahornweg	2.3	1.45	2	21	\cite{yoosefdoost2021archimedes}
+19	Solvay	2.3	2	2.5	39	\cite{yoosefdoost2021archimedes}
+20	Stimpfach	2.3	2.55	2.3	44	\cite{yoosefdoost2021archimedes}
+21	Linton Falls	2.4	2.7	2.6	50	\cite{yoosefdoost2021archimedes}
+22	Untermünkheim	2.4	1.8	2.5	31	\cite{yoosefdoost2021archimedes}
+23	Turbury Mill	2.5	2.1	2.8	43	\cite{yoosefdoost2021archimedes}
+24	Dautphetal	2.6	2.55	2.5	45.8	\cite{yoosefdoost2021archimedes}
+25	Hannoversch-Münden	2.8	2.6	2	35.455	\cite{yoosefdoost2021archimedes}
+26	Wiener Neustadt	2.8	4.05	3.5	98	\cite{yoosefdoost2021archimedes}
+27	Pilsing	2.9	3.6	3.2	8	\cite{yoosefdoost2021archimedes}
+28	Linton Plant	3	3.2	4.5	110	\cite{yoosefdoost2021archimedes}
+29	Low Wood	3	7.2	4	200	\cite{yoosefdoost2021archimedes}
+30	Marengo	3	1.6	3.7	51	\cite{yoosefdoost2021archimedes}
+31	Baiersdorff	3.2	1.5	4.5	48.1	\cite{yoosefdoost2021archimedes}
+32	Crescenzago	3.2	2.1	5	75	\cite{yoosefdoost2021archimedes}
+33	Hausen	3.4	5.8	6	250	\cite{yoosefdoost2021archimedes}
+34	Hausen III Neumatt	3.4	5.8	5.5	235	\cite{yoosefdoost2021archimedes}
+35	Kirchberg	3.4	2.97	6	130	\cite{yoosefdoost2021archimedes}
+36	Shanes Castle	3.4	5	5.5	192	\cite{yoosefdoost2021archimedes}
+37	Radyr	3.5	3.5	11	200	\cite{yoosefdoost2021archimedes}
+38	Maple Durham	3.6	1.73	8	99	\cite{yoosefdoost2021archimedes}
+39	Wien	3.6	1.7	7.1	84	\cite{yoosefdoost2021archimedes}
+40	Totnes	3.7	3.45	6.5	160	\cite{yoosefdoost2021archimedes}
+41	Künzelsau	4.1	1.72	8.95	132	\cite{yoosefdoost2021archimedes}
+42	Plana	4.1	3.5	8.73	220	\cite{yoosefdoost2021archimedes}
+43	Gunthorpe Weir	4.3	2.03	14.15	165	\cite{yoosefdoost2021archimedes}
+44	Ham	4.3	10	5	360	\cite{yoosefdoost2021archimedes}
+45	Höllthal	4.3	2.22	10.5	220	\cite{yoosefdoost2021archimedes}
+46	Olen	4.3	10	5	360	\cite{yoosefdoost2021archimedes}
+47	Hasselt	5	10	5	400	\cite{yoosefdoost2021archimedes}
+48	Widdington Plant	5	3	14.5	335	\cite{yoosefdoost2021archimedes}
+49	 Malang 	0.11	 - 	0.0005	0.001   \cite{yoosefdoost2021archimedes}
+50	 Ontario 	0.15	 - 	0.0008	0.001   \cite{yoosefdoost2021archimedes}
+51	 Strasbourg 	0.192	 - 	0.004	0.006   \cite{yoosefdoost2021archimedes}
+52	 Vienna 	0.806	 - 	0.22	3   \cite{yoosefdoost2021archimedes}
+53	 Strasbourg 	0.84	 - 	0.4	3   \cite{yoosefdoost2021archimedes}
+54	 Prague 	1.05	 - 	0.32	4   \cite{yoosefdoost2021archimedes}
+55	 Ontario 	1.39	 - 	0.4	7.2 \cite{yoosefdoost2021archimedes}
